@@ -14,7 +14,7 @@
 
 1.Use the "operations.py" file to get the number of internal links for each link.
 
-2.Use the "end result.py" file to merge all the dataframes together and get the following dataframe:
+2.Use the "output.py" file to merge all the dataframes together and get the following dataframe:
 
 ![Screen Shot 2023-02-02 at 3 46 54 AM](https://user-images.githubusercontent.com/114556029/216785685-ed23d5c5-dfda-4b1b-abfa-2396103bfc76.png)
 
